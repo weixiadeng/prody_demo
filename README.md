@@ -1,4 +1,4 @@
-Install `miniconda` [https://www.anaconda.com/docs/getting-started/miniconda/install#macos-terminal-installer](https://www.anaconda.com/docs/getting-started/miniconda/install#macos-terminal-installer)
+Install `miniconda` [https://www.anaconda.com/docs/getting-started/miniconda/install](https://www.anaconda.com/docs/getting-started/miniconda/install)
 
 Import: `conda env create -f environment.yml`
 
